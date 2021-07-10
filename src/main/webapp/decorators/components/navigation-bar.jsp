@@ -25,9 +25,15 @@
                                 Manage Project
                             </a>
                             <a class="dropdown-item" href="#">
-                                Project Create Project
+                                Create New Project
+                            </a>
+                            <a class="dropdown-item" href="#">
+                                Manage Staffs
                             </a>
                         </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Task</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
@@ -35,15 +41,25 @@
                         </a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">
-                                User List
+                                Manage User
                             </a>
                             <a class="dropdown-item" href="#">
                                 Create User
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Task</a>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Role
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">
+                               	Manage Role
+                            </a>
+                            <a class="dropdown-item" href="#">
+                                Create Role
+                            </a>
+                        </div>
                     </li>
                 </ul>
             </div>
